@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "414652358620",
+    "project_id": "tkchat-739d2",
+    "storage_bucket": "tkchat-739d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414652358620:android:6b25b629b622494f4f7919",
+        "android_client_info": {
+          "package_name": "site.tunckankilic.tkchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414652358620-u3dl3s342sevbkir4e7fpt06ife1e0gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8HH7fvsvGXnwYhA55tv_93ipD7asTNMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414652358620-rgapd3hafqnf2uq25e31sosijmtd9bu4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414652358620-1gsdl8nt8q73k1aoucjsbj9psfpjra26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "site.tunckankilic.tkchat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414652358620:android:4ad338ba93d5628e4f7919",
+        "android_client_info": {
+          "package_name": "site.tunckankilic.todoonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414652358620-u3dl3s342sevbkir4e7fpt06ife1e0gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8HH7fvsvGXnwYhA55tv_93ipD7asTNMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414652358620-rgapd3hafqnf2uq25e31sosijmtd9bu4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414652358620-1gsdl8nt8q73k1aoucjsbj9psfpjra26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "site.tunckankilic.tkchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
